@@ -1,0 +1,3 @@
+1722689721834 Command-line arguments: --covid=src/covid_data.csv --population=src/population.csv --properties=src/properties.csv --log=src/events.txt
+1722689764769 Command-line arguments: --covid=src/covid_data.csv --population=src/population.csv --properties=src/properties.csv --log=src/events.txt
+1722689792759 Command-line arguments: --covid=src/covid_data.csv --population=src/population.csv --properties=src/properties.csv --log=src/events.txt
